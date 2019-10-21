@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot-provider-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBootconsumer8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBootproviderdept8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBootproviderdept8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudAPI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudServer7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudServer7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudServer7003" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

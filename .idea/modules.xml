@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/microservicecloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/microservicecloud-consumer-dept-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/microservicecloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/microservicecloud-consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/microservicecloud-provider-dept-hystrix-8001.iml" filepath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/microservicecloud-provider-dept-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/microservicecloud-zuul-gateway-9527.iml" filepath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/microservicecloud-zuul-gateway-9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-provider-dept-8001/springBoot-provider-dept-8001.iml" filepath="$PROJECT_DIR$/springBoot-provider-dept-8001/springBoot-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootconsumer8001/springBootconsumer8001.iml" filepath="$PROJECT_DIR$/springBootconsumer8001/springBootconsumer8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootproviderdept8002/springBootproviderdept8002.iml" filepath="$PROJECT_DIR$/springBootproviderdept8002/springBootproviderdept8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootproviderdept8003/springBootproviderdept8003.iml" filepath="$PROJECT_DIR$/springBootproviderdept8003/springBootproviderdept8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud.iml" filepath="$PROJECT_DIR$/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAPI/springCloudAPI.iml" filepath="$PROJECT_DIR$/springCloudAPI/springCloudAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudServer7001/springCloudServer7001.iml" filepath="$PROJECT_DIR$/springCloudServer7001/springCloudServer7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudServer7002/springCloudServer7002.iml" filepath="$PROJECT_DIR$/springCloudServer7002/springCloudServer7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudServer7003/springCloudServer7003.iml" filepath="$PROJECT_DIR$/springCloudServer7003/springCloudServer7003.iml" />
+    </modules>
+  </component>
+</project>
